@@ -8,7 +8,7 @@ class EchocardiogramDataset(Dataset):
     """
     A PyTorch Dataset class to handle echocardiogram images and masks.
     This class supports dynamic data augmentation and preprocessing during data loading.
-
+:
     Attributes:
         images (list): List of transformed image tensors.
         masks (list): List of transformed mask tensors.

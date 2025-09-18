@@ -9,6 +9,8 @@ from skimage.filters import threshold_yen
 import torch
 import os
 import torch.nn.functional as F
+import warnings
+warnings.filterwarnings("ignore", message="Error fetching version info")
 import albumentations as A
 
 def load_zipped_pickle(filename):

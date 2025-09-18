@@ -1,12 +1,9 @@
-import matplotlib.pyplot as plt
-from tqdm import tqdm
-import numpy as np
-
 import os
+
 import numpy as np
 import torch
 from torch import optim
-import csv
+
 
 def iou_coeff(y_true, y_pred, smooth=1e-6):
     y_true = y_true.float().view(-1)
