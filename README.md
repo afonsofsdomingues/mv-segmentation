@@ -73,9 +73,9 @@ The test set file (test.pkl) has the same structure but with the labels removed.
 
 Here are three examples of the model's segmentation performance on test videos:
 
-<img src="demo/demo_segmentation_1.gif" alt="Demo 1" width="300" height="250">
-<img src="demo/demo_segmentation_2.gif" alt="Demo 2" width="300" height="250">
-<!-- <img src="demo/demo_segmentation_3.gif" alt="Demo 3" width="300" height="250"> -->
+<img src="demo/demo_segmentation_1.gif" alt="Demo 1" width="400" height="350">
+<!-- <img src="demo/demo_segmentation_2.gif" alt="Demo 2" width="400" height="350"> -->
+<!-- <img src="demo/demo_segmentation_3.gif" alt="Demo 3" width="400" height="350"> -->
 
 ## Folder Structure
 
