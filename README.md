@@ -71,7 +71,7 @@ The test set file (test.pkl) has the same structure but with the labels removed.
 
 ## Results
 
-Here are three examples of the model's segmentation performance on test videos:
+Here is a examples of the model's segmentation performance on a test video:
 
 <img src="demo/demo_segmentation_1.gif" alt="Demo 1" width="400" height="350">
 <!-- <img src="demo/demo_segmentation_2.gif" alt="Demo 2" width="400" height="350"> -->
