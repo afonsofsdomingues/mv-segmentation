@@ -2,10 +2,6 @@
   
 # Mitral Valve Segmentation
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Thosam1_PhysioNet-ICU-Mortality-Prediction&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Thosam1_PhysioNet-ICU-Mortality-Prediction)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Thosam1_PhysioNet-ICU-Mortality-Prediction&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Thosam1_PhysioNet-ICU-Mortality-Prediction)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Thosam1_PhysioNet-ICU-Mortality-Prediction&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Thosam1_PhysioNet-ICU-Mortality-Prediction)
-
 </div>
 
 This project is a classical segmentation task where we segment a mitral valve in the heart using a U-Net model.
