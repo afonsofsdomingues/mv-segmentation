@@ -2,6 +2,10 @@
   
 # Mitral Valve Segmentation
 
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Thosam1_PhysioNet-ICU-Mortality-Prediction&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Thosam1_PhysioNet-ICU-Mortality-Prediction)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Thosam1_PhysioNet-ICU-Mortality-Prediction&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Thosam1_PhysioNet-ICU-Mortality-Prediction)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Thosam1_PhysioNet-ICU-Mortality-Prediction&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Thosam1_PhysioNet-ICU-Mortality-Prediction)
+
 </div>
 
 This project is a classical segmentation task where we segment a mitral valve in the heart using a U-Net model.
@@ -73,9 +77,9 @@ The test set file (test.pkl) has the same structure but with the labels removed.
 
 Here are three examples of the model's segmentation performance on test videos:
 
-<img src="demo/demo_segmentation_1.gif" alt="Demo 1" width="400" height="350">
-<img src="demo/demo_segmentation_2.gif" alt="Demo 2" width="400" height="350">
-<img src="demo/demo_segmentation_3.gif" alt="Demo 3" width="400" height="350">
+<img src="demo/demo_segmentation_1.gif" alt="Demo 1" width="300" height="250">
+<img src="demo/demo_segmentation_2.gif" alt="Demo 2" width="300" height="250">
+<!-- <img src="demo/demo_segmentation_3.gif" alt="Demo 3" width="300" height="250"> -->
 
 ## Folder Structure
 
