@@ -2,6 +2,10 @@
   
 # Mitral Valve Segmentation
 
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=afonsofsdomingues_mv-segmentation&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=afonsofsdomingues_mv-segmentation)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=afonsofsdomingues_mv-segmentation&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=afonsofsdomingues_mv-segmentation)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=afonsofsdomingues_mv-segmentation&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=afonsofsdomingues_mv-segmentation)
+
 </div>
 
 This project is a classical segmentation task where we segment a mitral valve in the heart using a U-Net model.
